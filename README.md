@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kjh980816-hyeul&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/kjh980816-hyeul"
-  width="300"
+  width="600"
   height="300"
 />
 </a>
