@@ -1,4 +1,4 @@
-## Hi there 👋
+## 권준하 깃허브 입니다. 👋
 
 <!--
 **kjh980816-hyeul/kjh980816-hyeul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
